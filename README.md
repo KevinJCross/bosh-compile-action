@@ -4,6 +4,10 @@ A CLI tool (and GitHub action) to allow you to test compile a set of bosh packag
 
 The aim of this project is provide fast feedback as to whether a bosh release can be compiled or not.
 
+## installing
+go install 
+
+
 ## Usage
 
 Specify a list of packages to build:
